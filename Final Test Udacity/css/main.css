@@ -1,0 +1,42 @@
+* {
+	font-family: Verdana, sans-serif;
+	/*border: 1px solid red;*/
+}
+
+.main-text {
+	color: #666;
+	font-size: 16px;
+	line-height: 32px;
+
+}
+
+.subtitle {
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.subtitle.body {
+	margin-bottom: 30px;
+	margin-top: -5px;
+}
+
+.box {
+	border: 1px solid #ccc;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 25px;
+	padding-left: 15px;
+	padding-bottom: 25px;
+	padding-top: 30px;
+	
+}
+
+.title {
+	text-align: center;
+	font-weight: 300;
+	margin-top: 45px;
+	margin-bottom: 35px;
+	font-size: 48px;
+	color: #666;
+}
